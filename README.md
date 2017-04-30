@@ -3,7 +3,7 @@
 ### The beloved game of Tetris... in three dimensions
 and then back to two dimensions
 
-##### Playing
+#### Playing
 * From source:
   * Get [Open Turing](http://tristan.hume.ca/openturing/) ([GitHub](https://github.com/Open-Turing-Project/OpenTuring))
   * Clone the repo
@@ -22,8 +22,8 @@ The controls are shown in an on-screen window after you begin the game.\
 The window displaying the current score (a number on a white screen) must be in focus in order to control the game.
 
 The perspective looks fine if you just think of the coloured axis lines as the back of the game space.\
-You can also think of the coloured axis lines as the front of the space as a fun hidden challenge for the eyes.\
+You can also think of the coloured axis lines as the front of the space as a fun hidden challenge for the eyes.
 
-##### About
+#### About
 
 Made as a final project for a grade 11 programming course.
