@@ -1,0 +1,20 @@
+1Setting up the game:
+2Difficulty impacts the speed in which pieces fall.
+2Frames per second can be decreased if the game is lagging.
+2Game field size will make the play field bigger or smaller
+1Playing the game:
+2The objective is to fill out an entire row with blocks to earn points.
+2Points will also be awarded for soft and hard drops.
+2Difficulty will impact the points earned with a multiplier.
+1Controls:
+2W, A, S, D to rotate the game board.
+2Holding shift will speed up the rotation of the game board.
+2R & F will have the board zoom out and in.
+2The left and right arrows will move pieces left and right.
+2The Q & E keys willmove pieces forward and backward.
+2The down arrow will move the piece down (Soft Drop).
+2The spacebar will cause the piece to instantly hit the bottom (hard drop).
+2The up arrow will rotate pieces normally.
+2Holding shift will cause the piece to rotate in the z-axis.
+2Press tab to Reset the Camera.
+2Left alt will pause the game.
